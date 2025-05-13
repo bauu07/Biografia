@@ -121,3 +121,12 @@ h1{
     width: 400px;
     height: 200px;
 }
+.ig{
+    background-color: rgb(52, 99, 26);
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 8px;
+    border: 2px solid black;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    width: 100px;
+}
