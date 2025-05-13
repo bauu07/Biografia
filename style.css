@@ -86,9 +86,8 @@ h1{
     width: 200px;
 }
 .musica {
-    transform: translate( 200px, 200px);
-    left: 0;
-    top: 0;
+    transform: translate( 350px);
+    text-align: center;
 }
 .nano {
     background-color: rgb(52, 99, 26);
@@ -116,4 +115,8 @@ h1{
     border: 2px solid black;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     width: 100px;
+}
+.presionar{
+    transform: translate( 350px);
+    text-align: center;
 }
